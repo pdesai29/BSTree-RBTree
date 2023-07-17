@@ -1,0 +1,185 @@
+
+Runnig bs_tree code
+./trees 50000 -1 0
+real user sys
+6935  6570  0
+Total avg: avgReal:6935.0	 avg(user+sys):6570.0
+
+Runnig bs_tree code
+./trees 100000 -1 0
+real user sys
+25406  25250  50
+Total avg: avgReal:25406.0	 avg(user+sys):25300.0
+
+Runnig bs_tree code
+./trees 250000 -1 0
+real user sys
+
+Runnig bs_tree code
+./trees 50000 -1 0
+real user sys
+5924  5890  0
+Total avg: avgReal:5924.0	 avg(user+sys):5890.0
+
+Runnig bs_tree code
+./trees 100000 -1 0
+real user sys
+27882  27180  90
+Total avg: avgReal:27882.0	 avg(user+sys):27270.0
+
+Runnig bs_tree code
+./trees 250000 -1 0
+real user sys
+
+Runnig bs_tree code
+./trees 500000 -1 0
+real user sys
+
+Runnig bs_tree code
+./trees 1000000 -1 0
+real user sys
+
+Runnig bs_tree code
+./trees 2500000 -1 0
+real user sys
+
+Runnig bs_tree code
+./trees 5000000 -1 0
+real user sys
+
+Runnig bs_tree code
+./trees 50000 0 0
+real user sys
+33  30  20
+30  10  20
+55  60  0
+39  30  0
+46  50  0
+45  40  0
+47  30  0
+44  40  0
+48  40  0
+47  40  0
+Total avg: avgReal:43.4	 avg(user+sys):41.0
+
+Runnig bs_tree code
+./trees 100000 0 0
+real user sys
+104  60  30
+106  90  0
+60  60  0
+74  40  20
+73  60  10
+77  60  10
+77  70  0
+78  60  20
+72  30  30
+108  90  0
+Total avg: avgReal:82.9	 avg(user+sys):74.0
+
+Runnig bs_tree code
+./trees 250000 0 0
+real user sys
+217  170  30
+219  190  10
+348  280  20
+342  300  30
+230  180  10
+250  220  30
+275  250  30
+551  310  60
+447  310  50
+247  220  30
+Total avg: avgReal:312.6	 avg(user+sys):273.0
+
+Runnig bs_tree code
+./trees 500000 0 0
+real user sys
+513  450  60
+711  560  80
+570  460  110
+531  520  10
+569  540  20
+619  590  10
+937  890  10
+651  590  60
+571  530  50
+543  460  60
+Total avg: avgReal:621.5	 avg(user+sys):606.0
+
+Runnig bs_tree code
+./trees 1000000 0 0
+real user sys
+1244  1090  140
+1652  1420  110
+1313  1220  60
+1267  1130  130
+1373  1290  30
+1626  1440  130
+1677  1390  90
+1571  1350  120
+1467  1300  70
+1291  1150  90
+Total avg: avgReal:1448.1	 avg(user+sys):1375.0
+
+Runnig bs_tree code
+./trees 2500000 0 0
+real user sys
+3883  3570  250
+3941  3760  160
+3854  3540  250
+3917  3610  240
+3853  3660  190
+3834  3620  170
+3772  3550  220
+3770  3460  280
+3837  3510  310
+4401  4250  110
+Total avg: avgReal:3906.2	 avg(user+sys):3871.0
+
+Runnig bs_tree code
+./trees 5000000 0 0
+real user sys
+9584  8620  620
+9168  8520  450
+8908  8440  340
+10680  9470  550
+8455  8030  390
+10068  9010  730
+11041  9440  610
+10269  9170  620
+8727  8200  470
+9380  8770  450
+Total avg: avgReal:9628.0	 avg(user+sys):9290.0
+
+Runnig bs_tree code
+./trees 50000 1 0
+real user sys
+6592  6560  20
+Total avg: avgReal:6592.0	 avg(user+sys):6580.0
+
+Runnig bs_tree code
+./trees 100000 1 0
+real user sys
+29142  28710  90
+Total avg: avgReal:29142.0	 avg(user+sys):28800.0
+
+Runnig bs_tree code
+./trees 250000 1 0
+real user sys
+
+Runnig bs_tree code
+./trees 500000 1 0
+real user sys
+
+Runnig bs_tree code
+./trees 1000000 1 0
+real user sys
+
+Runnig bs_tree code
+./trees 2500000 1 0
+real user sys
+
+Runnig bs_tree code
+./trees 5000000 1 0
+real user sys

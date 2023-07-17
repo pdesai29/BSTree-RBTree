@@ -1,0 +1,315 @@
+
+Runnig rb_tree code
+./trees 50000 -1 1
+real user sys
+26  10  10
+38  30  0
+37  40  0
+38  10  20
+40  10  10
+37  30  0
+36  30  0
+39  50  0
+36  30  10
+47  40  0
+Total avg: avgReal:37.4	 avg(user+sys):33.0
+
+Runnig rb_tree code
+./trees 100000 -1 1
+real user sys
+79  40  0
+84  70  0
+64  70  0
+75  80  0
+74  50  20
+70  60  0
+75  60  10
+68  30  30
+75  60  0
+80  60  0
+Total avg: avgReal:74.4	 avg(user+sys):64.0
+
+Runnig rb_tree code
+./trees 250000 -1 1
+real user sys
+201  180  10
+187  150  30
+186  150  30
+181  140  50
+181  190  0
+182  160  20
+179  160  30
+195  170  30
+187  150  30
+183  150  30
+Total avg: avgReal:186.2	 avg(user+sys):186.0
+
+Runnig rb_tree code
+./trees 500000 -1 1
+real user sys
+393  330  60
+379  370  20
+398  370  30
+377  360  20
+382  340  30
+398  350  30
+383  370  10
+377  360  10
+462  310  30
+372  350  20
+Total avg: avgReal:392.1	 avg(user+sys):377.0
+
+Runnig rb_tree code
+./trees 1000000 -1 1
+real user sys
+836  820  20
+811  740  80
+801  710  80
+799  750  50
+798  670  130
+839  780  60
+832  730  90
+806  680  110
+804  740  40
+804  780  30
+Total avg: avgReal:813.0	 avg(user+sys):809.0
+
+Runnig rb_tree code
+./trees 2500000 -1 1
+real user sys
+2221  2030  170
+2188  2060  90
+2299  2080  170
+2145  2040  90
+2184  2040  140
+2175  2030  140
+2226  2050  150
+2156  2020  120
+2222  1970  250
+2155  1990  170
+Total avg: avgReal:2197.1	 avg(user+sys):2180.0
+
+Runnig rb_tree code
+./trees 5000000 -1 1
+real user sys
+4188  3780  410
+4452  4060  390
+4164  3890  270
+4074  3780  300
+4044  3650  390
+4159  3900  250
+4083  3630  440
+4020  3730  280
+4560  3860  490
+4121  3690  420
+Total avg: avgReal:4186.5	 avg(user+sys):4161.0
+
+Runnig rb_tree code
+./trees 50000 0 1
+real user sys
+54  60  0
+50  50  0
+54  40  0
+40  40  0
+45  40  0
+46  50  0
+49  40  0
+42  30  0
+50  30  20
+56  30  30
+Total avg: avgReal:48.6	 avg(user+sys):46.0
+
+Runnig rb_tree code
+./trees 100000 0 1
+real user sys
+88  70  0
+78  70  0
+113  90  20
+81  70  10
+79  60  10
+84  70  0
+82  40  30
+81  60  20
+82  80  0
+79  70  0
+Total avg: avgReal:84.7	 avg(user+sys):77.0
+
+Runnig rb_tree code
+./trees 250000 0 1
+real user sys
+256  230  10
+274  220  40
+260  240  30
+267  230  20
+261  250  20
+261  250  0
+262  210  40
+305  280  10
+263  250  20
+259  220  30
+Total avg: avgReal:266.8	 avg(user+sys):260.0
+
+Runnig rb_tree code
+./trees 500000 0 1
+real user sys
+624  600  20
+619  530  70
+597  560  30
+595  590  0
+607  580  0
+661  610  40
+606  510  90
+609  550  60
+598  540  50
+595  590  0
+Total avg: avgReal:611.1	 avg(user+sys):602.0
+
+Runnig rb_tree code
+./trees 1000000 0 1
+real user sys
+1362  1310  60
+1399  1310  90
+1428  1390  30
+2070  1830  130
+1377  1280  90
+1381  1240  120
+1421  1310  110
+1396  1310  60
+1357  1260  90
+1416  1310  110
+Total avg: avgReal:1460.7	 avg(user+sys):1444.0
+
+Runnig rb_tree code
+./trees 2500000 0 1
+real user sys
+4044  3860  170
+4035  3790  220
+4113  3830  250
+4042  3780  250
+4100  3880  200
+4118  3940  170
+4167  3950  200
+4137  3890  250
+4101  3890  180
+4114  3900  200
+Total avg: avgReal:4097.1	 avg(user+sys):4080.0
+
+Runnig rb_tree code
+./trees 5000000 0 1
+real user sys
+9681  9180  470
+9326  8730  390
+9214  8730  480
+9140  8630  470
+9068  8600  420
+10120  9370  440
+9883  9230  490
+9252  8850  380
+9212  8700  450
+9126  8700  390
+Total avg: avgReal:9402.2	 avg(user+sys):9310.0
+
+Runnig rb_tree code
+./trees 50000 1 1
+real user sys
+29  10  20
+29  30  0
+27  10  0
+26  20  0
+27  30  0
+28  10  10
+27  30  0
+30  30  0
+29  20  0
+30  30  0
+Total avg: avgReal:28.2	 avg(user+sys):25.0
+
+Runnig rb_tree code
+./trees 100000 1 1
+real user sys
+66  40  20
+67  70  0
+86  70  0
+79  60  10
+68  70  0
+68  60  0
+68  60  0
+64  60  0
+63  60  0
+64  60  0
+Total avg: avgReal:69.3	 avg(user+sys):64.0
+
+Runnig rb_tree code
+./trees 250000 1 1
+real user sys
+180  150  10
+196  170  0
+178  140  30
+179  140  30
+179  150  20
+179  170  0
+177  170  0
+177  150  20
+181  180  0
+175  150  10
+Total avg: avgReal:180.1	 avg(user+sys):169.0
+
+Runnig rb_tree code
+./trees 500000 1 1
+real user sys
+383  370  10
+380  360  10
+389  370  20
+403  370  30
+379  350  30
+379  380  0
+405  390  20
+376  340  30
+384  280  110
+381  370  20
+Total avg: avgReal:385.9	 avg(user+sys):386.0
+
+Runnig rb_tree code
+./trees 1000000 1 1
+real user sys
+803  680  110
+804  700  60
+847  750  70
+918  850  60
+1222  1030  170
+804  730  60
+814  730  80
+843  760  80
+916  720  70
+805  710  90
+Total avg: avgReal:877.6	 avg(user+sys):851.0
+
+Runnig rb_tree code
+./trees 2500000 1 1
+real user sys
+2167  1950  170
+2174  2000  170
+2201  2070  120
+2445  2280  110
+2184  1980  200
+2233  2020  200
+2174  2050  110
+2201  1950  250
+2202  2030  170
+2230  2120  110
+Total avg: avgReal:2221.1	 avg(user+sys):2206.0
+
+Runnig rb_tree code
+./trees 5000000 1 1
+real user sys
+4274  3850  390
+4522  3990  360
+4844  4390  420
+4690  4280  380
+4177  3870  280
+4258  3970  280
+4477  3920  500
+4252  3950  280
+4185  3930  250
+4249  3920  310
+Total avg: avgReal:4392.8	 avg(user+sys):4352.0
